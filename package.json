@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.13.2",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerti-Toppo/Intro-to-Node.git"
+  },
+  "author": "Keerti Toppo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerti-Toppo/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/Keerti-Toppo/Intro-to-Node#readme"
+}
